@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MQTT</string>
+    <string name="Recevied">Received Message</string>
+    <string name="fackApp">fackdata</string>
+    <string name="EnterClientHere">Enter client here</string>
+    <string name="Start">Connect with Service</string>
+</resources>
